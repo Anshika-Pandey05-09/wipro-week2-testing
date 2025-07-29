@@ -1,0 +1,116 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pande\\source\\repos\\wipro_week2\\Day8_Assignment2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E0A4C3A2-A7EE-4A92-BFC5-A94191D99E2A}|..\\BookTest.UnitTest\\BookTest.UnitTest.csproj|c:\\users\\pande\\source\\repos\\wipro_week2\\booktest.unittest\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01E43046-BDE4-47EA-AAF3-89E9991FCC41}|Day8_Assignment2.csproj|c:\\users\\pande\\source\\repos\\wipro_week2\\day8_assignment2\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01E43046-BDE4-47EA-AAF3-89E9991FCC41}|Day8_Assignment2.csproj|solutionrelative:library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01E43046-BDE4-47EA-AAF3-89E9991FCC41}|Day8_Assignment2.csproj|c:\\users\\pande\\source\\repos\\wipro_week2\\day8_assignment2\\borrower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01E43046-BDE4-47EA-AAF3-89E9991FCC41}|Day8_Assignment2.csproj|solutionrelative:borrower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01E43046-BDE4-47EA-AAF3-89E9991FCC41}|Day8_Assignment2.csproj|c:\\users\\pande\\source\\repos\\wipro_week2\\day8_assignment2\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01E43046-BDE4-47EA-AAF3-89E9991FCC41}|Day8_Assignment2.csproj|solutionrelative:book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01E43046-BDE4-47EA-AAF3-89E9991FCC41}|Day8_Assignment2.csproj|c:\\users\\pande\\source\\repos\\wipro_week2\\day8_assignment2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01E43046-BDE4-47EA-AAF3-89E9991FCC41}|Day8_Assignment2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\pande\\source\\repos\\wipro_week2\\BookTest.UnitTest\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "..\\BookTest.UnitTest\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\pande\\source\\repos\\wipro_week2\\BookTest.UnitTest\\UnitTest1.cs",
+              "RelativeToolTip": "..\\BookTest.UnitTest\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T07:17:36.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\pande\\source\\repos\\wipro_week2\\Day8_Assignment2\\Book.cs",
+              "RelativeDocumentMoniker": "Book.cs",
+              "ToolTip": "C:\\Users\\pande\\source\\repos\\wipro_week2\\Day8_Assignment2\\Book.cs",
+              "RelativeToolTip": "Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T07:16:32.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Borrower.cs",
+              "DocumentMoniker": "C:\\Users\\pande\\source\\repos\\wipro_week2\\Day8_Assignment2\\Borrower.cs",
+              "RelativeDocumentMoniker": "Borrower.cs",
+              "ToolTip": "C:\\Users\\pande\\source\\repos\\wipro_week2\\Day8_Assignment2\\Borrower.cs",
+              "RelativeToolTip": "Borrower.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T07:15:59.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Library.cs",
+              "DocumentMoniker": "C:\\Users\\pande\\source\\repos\\wipro_week2\\Day8_Assignment2\\Library.cs",
+              "RelativeDocumentMoniker": "Library.cs",
+              "ToolTip": "C:\\Users\\pande\\source\\repos\\wipro_week2\\Day8_Assignment2\\Library.cs",
+              "RelativeToolTip": "Library.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T07:15:32.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pande\\source\\repos\\wipro_week2\\Day8_Assignment2\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\pande\\source\\repos\\wipro_week2\\Day8_Assignment2\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T07:14:22.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
