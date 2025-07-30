@@ -1,0 +1,12 @@
+﻿@page "{id:int}"
+@model Day10_CaseStudy_Product_Management.Pages.Products.DetailsModel
+@{
+}
+@{
+    ViewData["Title"] = "Product Details";
+}
+
+<h2>@Model.CurrentProduct.Name</h2>
+<p><strong>Price:</strong> @Model.CurrentProduct.Price.ToString("C")</p>
+
+<a asp-page="Index">← Back to Product List</a>
